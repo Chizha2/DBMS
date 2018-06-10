@@ -1,0 +1,2 @@
+CustomerID|Int32|CompanyName|String|ContactName|String
+1|Nokia|Иван

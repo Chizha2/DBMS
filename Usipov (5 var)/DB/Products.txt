@@ -1,0 +1,2 @@
+ProductID|Int32|UnitPrice|Int32|UnitInStock|Int32
+8|1000|56

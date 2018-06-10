@@ -1,0 +1,2 @@
+ID|Int32|OrderID|Int32|ProductID|Int32|UnitPrice|Int32|Quantity|Int32
+2|123|8|1000|9
