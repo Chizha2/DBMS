@@ -1,0 +1,4 @@
+SubjectID|Int32|Subject|String
+3|Математика
+5|История
+8|Физика
