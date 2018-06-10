@@ -1,0 +1,45 @@
+﻿  DBLibrary.cpp
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(18): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(82): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(100): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(145): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(194): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(209): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(210): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(211): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(197): warning C4996: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': Call to 'std::basic_string::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(1808): note:  см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy"
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(202): warning C4996: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': Call to 'std::basic_string::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(1808): note:  см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy"
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(217): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(218): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(228): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(242): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(244): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(231): warning C4996: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': Call to 'std::basic_string::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(1808): note:  см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy"
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(239): warning C4996: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': Call to 'std::basic_string::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(1808): note:  см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy"
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(253): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(254): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(261): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(262): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(288): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(291): warning C4996: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': Call to 'std::basic_string::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(1808): note:  см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy"
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(296): warning C4996: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': Call to 'std::basic_string::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(1808): note:  см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy"
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(305): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(332): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(337): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(356): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\chizh\desktop\программирование\2 семестр\субд\dblibrary\dblibrary.cpp(362): warning C4018: <: несоответствие типов со знаком и без знака
+  DBLibrary.vcxproj -> C:\Users\Chizh\Desktop\Программирование\2 семестр\СУБД\DBLibrary\Debug\DBLibrary.lib
